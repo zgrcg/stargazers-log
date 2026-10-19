@@ -1,0 +1,20 @@
+[
+  {
+    "type": "starred",
+    "repository": "https://github.com/microsoft/vscode",
+    "description": "Visual Studio Code",
+    "starredAt": "2025-02-14"
+  },
+  {
+    "type": "starred",
+    "repository": "https://github.com/github/docs",
+    "description": "The open-source GitHub documentation",
+    "starredAt": "2025-01-28"
+  },
+  {
+    "type": "starred",
+    "repository": "https://github.com/microsoft/TypeScript",
+    "description": "TypeScript is a strongly typed programming language that builds on JavaScript.",
+    "starredAt": "2024-12-09"
+  }
+]
